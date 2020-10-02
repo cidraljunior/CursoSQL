@@ -1,11 +1,11 @@
 /*
 BETWEEN
 
-… usado para encontrar um valor entre um valor mÌnimo e um valor m·ximo
+√â usado para encontrar um valor entre um valor m√≠nimo e um valor m√°ximo
 
 Sintaxe:
 
-valor BETWEEN mÌnimo AND m·ximo;
+valor BETWEEN m√≠nimo AND m√°ximo;
 
 */
 
