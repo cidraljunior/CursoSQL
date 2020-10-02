@@ -1,7 +1,7 @@
 /*
 COUNT
 
-Retorna o numero de linhas com uma condição definida
+Retorna o numero de linhas com uma condiÃ§Ã£o definida
 
 */
 
@@ -39,4 +39,4 @@ Quantos tamanhos diferentes de produtos temos cadastrados em nossa tabela
 SELECT COUNT(DISTINCT Size)
 FROM Production.Product;
 
--- 18 Tamanhos únicos 
+-- 18 Tamanhos Ãºnicos 
