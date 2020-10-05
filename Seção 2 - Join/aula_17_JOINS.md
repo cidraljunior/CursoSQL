@@ -2,7 +2,11 @@
 
 Diagrama:
 
+<<<<<<< HEAD
 ![](images/joins-diagram.jpg?raw=true "Joins" ){:height="50%" width="50%"}
+=======
+<img src="images/joins-diagram.jpg?raw=true" width="600">
+>>>>>>> 984ea0cb2d3b5935dd4ced11325a3d8223aa87d7
 
 
 **INNER JOIN**
