@@ -2,7 +2,7 @@
 
 Diagrama:
 
-![Alt text](images/joins-diagram.jpg?raw=true "Joins")
+<img src="images/joins-diagram.jpg?raw=true" width="600">
 
 
 **INNER JOIN**
