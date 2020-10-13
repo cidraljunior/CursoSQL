@@ -10,13 +10,13 @@ CREATE TABLE nomeTabela (
 	...
 );
 
-Principais tipos de restrições que podem ser aplicadas
-NOT NULL - Não permite nulos
-UNIQUE - Força que todos os valores em uma coluna sejam diferentes
-PRIMARY KEY - uma junção de NOT NULL e UNIQUE
-FOREIGN KEY = identifica únicamente uma linha em outra tabela
-CHECK - Força uma condição específica em uma coluna
-DEFAULT - Força um valor padrão quando nenhum valor é passado
+Principais tipos de restriÃ§Ãµes que podem ser aplicadas
+NOT NULL - NÃ£o permite nulos
+UNIQUE - ForÃ§a que todos os valores em uma coluna sejam diferentes
+PRIMARY KEY - uma junÃ§Ã£o de NOT NULL e UNIQUE
+FOREIGN KEY = identifica Ãºnicamente uma linha em outra tabela
+CHECK - ForÃ§a uma condiÃ§Ã£o especÃ­fica em uma coluna
+DEFAULT - ForÃ§a um valor padrÃ£o quando nenhum valor Ã© passado
 */
 
 CREATE TABLE Canal (
